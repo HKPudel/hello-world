@@ -1,5 +1,4 @@
 # hello-world
-Beispiel Repository für github
 
 Hallo Leute,
 
